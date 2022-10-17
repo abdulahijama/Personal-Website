@@ -1,2 +1,2 @@
 # Resume-Website
-  Created a resume website using just HTML5. 
+  Created a resume website using HTML5 and CSS. 
